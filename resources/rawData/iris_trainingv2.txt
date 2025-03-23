@@ -1,0 +1,2 @@
+ 1,0    	 1,0    	 Iris-setosa
+ -1,0    	 -1,0    	 Iris-versicolor
